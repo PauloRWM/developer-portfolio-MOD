@@ -1,20 +1,26 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
+    title: "CURSO SUPERIOR TECNOLÓGICO EM REDES DE COMPUTADORES",
     duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    institution: "Faculdade Laboro",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
+    title: "Liderança Saudável: transformando pessoas e empresas (Curso Livre)",
     duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    institution: "Pontifícia Universidade Católica do Rio Grande do Sul",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
+    title: "Conexão de Redes WAN (Curso livre)",
     duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    institution: "Faculdade Laboro",
+  },
+  {
+    id: 4,
+    title: "Técnico de informática",
+    duration: "2008 - 2018",
+    institution: "Instituto Federal do Maranhão",
   }
 ]
